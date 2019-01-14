@@ -22,6 +22,7 @@
       <sourceFolder url="file://$MODULE_DIR$/gamestore/static" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gamestore/static/styles" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gamestore/static/fonts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
