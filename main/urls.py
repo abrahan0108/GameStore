@@ -15,4 +15,6 @@ urlpatterns = [
     }, name='logout'),
     path(r'', views.index, name='index'),
     path(r'accounts/signup/', views.signup, name='signup'),
+    path(r'games-list/highlighted/', views.show_highlighted_games),
+    path(r'games-list/all/', views.show_all_games),
 ]
